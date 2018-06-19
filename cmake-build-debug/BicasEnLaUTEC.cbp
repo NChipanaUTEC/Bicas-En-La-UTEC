@@ -128,6 +128,12 @@
 		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.h">
 			<Option target="BicasEnLaUTEC"/>
 		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.cpp">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
 		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/main.cpp">
 			<Option target="BicasEnLaUTEC"/>
 		</Unit>

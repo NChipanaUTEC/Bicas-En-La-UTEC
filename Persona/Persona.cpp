@@ -4,10 +4,11 @@
 
 #include "Persona.h"
 
-void Protagonista::SetValues() {
 
-}
-
-void Enemigo::SetValues() {
-
+void Protagonista::operator++() {
+    HP += 10;
+    ATK += 10;
+    DEF += 10;
+    SPD += 10;
+    LVL += 1;
 }

@@ -30,7 +30,7 @@ int Piso1::Draw(RenderWindow &window, Event &evento)
 
     Texture ProtaTextura;
         ProtaTextura.loadFromFile("../Scenes/Piso1/Graphics/pSprite.png");
-        IntRect SpriteBx(0,0,70,70);
+        IntRect SpriteBx(0,0,65,65);
     Sprite Protagonista(ProtaTextura,SpriteBx);
         Protagonista.setPosition((window.getSize().x)/2.5,(window.getSize().y)/2.75);
         Protagonista.setScale(3,3);

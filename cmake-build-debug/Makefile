@@ -285,6 +285,33 @@ Scenes/Scenes.cpp.s:
 	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.s
 .PHONY : Scenes/Scenes.cpp.s
 
+Util/GenerarPersonaje.o: Util/GenerarPersonaje.cpp.o
+
+.PHONY : Util/GenerarPersonaje.o
+
+# target to build an object file
+Util/GenerarPersonaje.cpp.o:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o
+.PHONY : Util/GenerarPersonaje.cpp.o
+
+Util/GenerarPersonaje.i: Util/GenerarPersonaje.cpp.i
+
+.PHONY : Util/GenerarPersonaje.i
+
+# target to preprocess a source file
+Util/GenerarPersonaje.cpp.i:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.i
+.PHONY : Util/GenerarPersonaje.cpp.i
+
+Util/GenerarPersonaje.s: Util/GenerarPersonaje.cpp.s
+
+.PHONY : Util/GenerarPersonaje.s
+
+# target to generate assembly for a file
+Util/GenerarPersonaje.cpp.s:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.s
+.PHONY : Util/GenerarPersonaje.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -339,6 +366,9 @@ help:
 	@echo "... Scenes/Scenes.o"
 	@echo "... Scenes/Scenes.i"
 	@echo "... Scenes/Scenes.s"
+	@echo "... Util/GenerarPersonaje.o"
+	@echo "... Util/GenerarPersonaje.i"
+	@echo "... Util/GenerarPersonaje.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

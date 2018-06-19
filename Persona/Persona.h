@@ -9,26 +9,26 @@
 using namespace std;
 
 class Persona {
+protected:
     int HP;
     int ATK;
     int DEF;
     int SPD;
     int LVL;
 public:
-    Persona(const int &HP,const int &ATK,const int &DEF, const int &LVL,const int &SPD): HP(0), ATK(0), DEF(0),SPD(0),LVL(0){}
+    Persona(const int &HP,const int &ATK,const int &DEF, const int &LVL,const int &SPD): HP(HP), ATK(ATK), DEF(DEF),SPD(SPD),LVL(LVL){}
 };
 
-class Protagonista: Persona{
+class Protagonista: public Persona{
     string CARRERA;
 public:
     Protagonista(const int &HP,const int &ATK,const int &DEF, const int &LVL,const int &SPD, string CARRERA):
             Persona(HP,ATK,DEF,LVL,SPD),CARRERA(CARRERA){}
-    void SetValues();
+    void operator ++ ();
 };
 
-class Enemigo: Persona{
+class Enemigo: public Persona{
     using Persona::Persona;
-    void SetValues();
 };
 
 #endif //BICASENLAUTEC_PERSONAJE_H

@@ -36,9 +36,7 @@ int Introduction::Draw(RenderWindow &window, Event &evento) {
         Exit.setFillColor(Color::White);
         Exit.setPosition((window.getSize().x)/2.9,465);
         Exit.setScale(1.8,1.8);
-
-    //SoundBuff.loadFromFile("../Scenes/Introduction/Sounds/Accept_Button.ogg");
-    //AButton.setBuffer(SoundBuff);
+        
     SoundBuff.loadFromFile("../Scenes/Introduction/Sounds/FGBS(27).wav");
     SelectButton.setBuffer(SoundBuff);
 

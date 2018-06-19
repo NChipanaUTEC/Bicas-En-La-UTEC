@@ -13,7 +13,6 @@ using namespace std;
 class Introduction{
     int TrianglePos = 420;
     SoundBuffer SoundBuff;
-    Sound AButton;
     Sound SelectButton;
 public:
     Introduction();

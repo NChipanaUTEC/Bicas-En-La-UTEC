@@ -7,6 +7,7 @@
 
 #include "SFML/Graphics.hpp"
 #include "SFML/Audio.hpp"
+#include <string>
 using namespace sf;
 using namespace std;
 
@@ -17,7 +18,7 @@ class CharacterSelect {
     Sound SelectButton;
 public:
     CharacterSelect();
-    int Draw(RenderWindow &window, Event &evento);
+    string Draw(RenderWindow &window, Event &evento);
 };
 
 

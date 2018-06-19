@@ -7,13 +7,16 @@
 
 #include "Scenes/Scenes.h"
 #include "Persona/Persona.h"
+#include "Util/GenerarPersonaje.h"
+
 
 class Controller {
     RenderWindow& window;
     Event evento;
     Scenes scene;
+    Protagonista prota;
 public:
-    Controller(RenderWindow &window, Event &evento):window(window),evento(evento){}
+    Controller(RenderWindow &window, Event &evento):window(window),evento(evento),prota(0,0,0,0,0,""){}
     void SceneDraw();
 };
 

@@ -8,7 +8,7 @@ CharacterSelect::CharacterSelect() {
     TrianglePos = 90;
 }
 
-int CharacterSelect::Draw(RenderWindow &window, Event &evento) {
+string CharacterSelect::Draw(RenderWindow &window, Event &evento) {
     CircleShape Triangle(10,3);
         Triangle.rotate(90);
         Triangle.setFillColor(Color::White);
@@ -125,7 +125,7 @@ int CharacterSelect::Draw(RenderWindow &window, Event &evento) {
                     }
                     else if(evento.key.code == Keyboard::Z) {
                         if(TrianglePos % 45 == 0){
-                            return 1;
+                            return "CS";
                         }
                     }
             }
