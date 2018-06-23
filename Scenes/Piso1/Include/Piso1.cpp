@@ -32,7 +32,7 @@ int Piso1::Draw(RenderWindow &window, Event &evento)
         ProtaTextura.loadFromFile("../Scenes/Piso1/Graphics/pSprite.png");
         IntRect SpriteBx(0,0,65,65);
     Sprite Protagonista(ProtaTextura,SpriteBx);
-        Protagonista.setPosition((window.getSize().x)/2.5,(window.getSize().y)/2.75);
+        Protagonista.setPosition((window.getSize().x)/3,(window.getSize().y)/3);
         Protagonista.setScale(3,3);
 
     while (window.isOpen()) {
@@ -46,6 +46,10 @@ int Piso1::Draw(RenderWindow &window, Event &evento)
                         BackY -= 10;
                         Background.move(0,-10);
                         Foreground.move(0,-10);
+                        if(Protagonista.getPosition()==Foreground.getPosition()){
+                            BackY+=10;
+                            Background.move(0,10);
+                        }
                         if(clock1.getElapsedTime().asMilliseconds()>64){
                             SpriteBx.top = 0;
                             if (SpriteBx.left == 192)

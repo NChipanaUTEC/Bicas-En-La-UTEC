@@ -12,42 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ac7bd57-80fe-4543-97ad-75c9777577ac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Util/GenerarPersonaje.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Util/GenerarPersonaje.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controller.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Controller.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controller.h" beforeDir="false" afterPath="$PROJECT_DIR$/Controller.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persona/Persona.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Persona/Persona.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persona/Persona.h" beforeDir="false" afterPath="$PROJECT_DIR$/Persona/Persona.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenes/CharacterSelect/Include/CharacterSelect.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/CharacterSelect/Include/CharacterSelect.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenes/CharacterSelect/Include/CharacterSelect.h" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/CharacterSelect/Include/CharacterSelect.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenes/Introduction/Include/Introduction.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/Introduction/Include/Introduction.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenes/Introduction/Include/Introduction.h" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/Introduction/Include/Introduction.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scenes/Piso1/Include/Piso1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/Piso1/Include/Piso1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenes/Scenes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/Scenes.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenes/Scenes.h" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/Scenes.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BicasEnLaUTEC" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BicasEnLaUTEC" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BicasEnLaUTEC.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BicasEnLaUTEC.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Persona/Persona.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/CharacterSelect/Include/CharacterSelect.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/CharacterSelect/Include/CharacterSelect.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/Introduction/Include/Introduction.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/Introduction/Include/Introduction.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/Piso1/Include/Piso1.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/Piso1/Include/Piso1.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,7 +31,7 @@
       <file leaf-file-name="Scenes.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scenes/Scenes.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
+            <state relative-caret-position="270">
               <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
               <folding>
                 <element signature="e#102#148#0" expanded="true" />
@@ -75,7 +43,7 @@
       <file leaf-file-name="Scenes.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scenes/Scenes.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="240">
               <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
             </state>
           </provider>
@@ -90,11 +58,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Persona.h" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Persona.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Persona/Persona.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Piso1.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scenes/Piso1/Include/Piso1.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharacterSelect.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scenes/CharacterSelect/Include/CharacterSelect.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1905">
+              <caret line="127" column="38" selection-start-line="127" selection-start-column="38" selection-end-line="127" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -102,13 +97,13 @@
       <file leaf-file-name="Persona.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Persona/Persona.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Controller.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Controller.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Controller.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -134,6 +129,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>background</find>
+      <find>spritebx</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,13 +146,10 @@
         <option value="$PROJECT_DIR$/Scenes/piso1.h" />
         <option value="$PROJECT_DIR$/Scenes/piso1.cpp" />
         <option value="$PROJECT_DIR$/Scenes/Piso1/Include/piso1.h" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/Scenes/Piso1/Include/Piso1.h" />
         <option value="$PROJECT_DIR$/Scenes/Introduction/Include/Introduction.h" />
         <option value="$PROJECT_DIR$/Scenes/Introduction/Include/Introduction.cpp" />
-        <option value="$PROJECT_DIR$/Scenes/Piso1/Include/Piso1.cpp" />
         <option value="$PROJECT_DIR$/Scenes/CharacterSelect/Include/CharacterSelect.h" />
-        <option value="$PROJECT_DIR$/Scenes/CharacterSelect/Include/CharacterSelect.cpp" />
         <option value="$PROJECT_DIR$/Scenes/Scenes.h" />
         <option value="$PROJECT_DIR$/Controller.cpp" />
         <option value="$PROJECT_DIR$/Controller.h" />
@@ -164,6 +157,9 @@
         <option value="$PROJECT_DIR$/Persona/Persona.cpp" />
         <option value="$PROJECT_DIR$/Util/GenerarPersonaje.h" />
         <option value="$PROJECT_DIR$/Persona/Persona.h" />
+        <option value="$PROJECT_DIR$/Scenes/CharacterSelect/Include/CharacterSelect.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Scenes/Piso1/Include/Piso1.cpp" />
       </list>
     </option>
   </component>
@@ -196,34 +192,6 @@
               <item name="BicasEnLaUTEC" type="b2602c69:ProjectViewProjectNode" />
               <item name="BicasEnLaUTEC" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BicasEnLaUTEC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BicasEnLaUTEC" type="462c0819:PsiDirectoryNode" />
-              <item name="Persona" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BicasEnLaUTEC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BicasEnLaUTEC" type="462c0819:PsiDirectoryNode" />
-              <item name="Scenes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BicasEnLaUTEC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BicasEnLaUTEC" type="462c0819:PsiDirectoryNode" />
-              <item name="Scenes" type="462c0819:PsiDirectoryNode" />
-              <item name="CharacterSelect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BicasEnLaUTEC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BicasEnLaUTEC" type="462c0819:PsiDirectoryNode" />
-              <item name="Scenes" type="462c0819:PsiDirectoryNode" />
-              <item name="CharacterSelect" type="462c0819:PsiDirectoryNode" />
-              <item name="Include" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BicasEnLaUTEC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BicasEnLaUTEC" type="462c0819:PsiDirectoryNode" />
-              <item name="Util" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -232,22 +200,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WeekOfCode3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Scenes/Piso1/Graphics" />
-      <recent name="$PROJECT_DIR$/Scenes/Introduction/Sounds" />
-      <recent name="$PROJECT_DIR$/Scenes/Introduction/Graphics" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Scenes/CharacterSelect/Sounds" />
       <recent name="$PROJECT_DIR$/Scenes/Piso1/Include" />
       <recent name="$PROJECT_DIR$/Persona" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Scenes/Piso1/Graphics" />
+      <recent name="$PROJECT_DIR$/Scenes/Introduction/Sounds" />
+      <recent name="$PROJECT_DIR$/Scenes/Introduction/Graphics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -300,25 +268,31 @@
       <workItem from="1529324231640" duration="1461000" />
       <workItem from="1529330709824" duration="1530000" />
       <workItem from="1529351705187" duration="1539000" />
-      <workItem from="1529417942772" duration="6792000" />
+      <workItem from="1529417942772" duration="7389000" />
+      <workItem from="1529464358332" duration="96000" />
+      <workItem from="1529534686462" duration="1160000" />
+      <workItem from="1529537925685" duration="597000" />
+      <workItem from="1529555755793" duration="630000" />
+      <workItem from="1529691007615" duration="1106000" />
+      <workItem from="1529700039700" duration="9129000" />
+      <workItem from="1529726884692" duration="304000" />
+      <workItem from="1529727705325" duration="568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68565000" />
+    <option name="totallyTimeSpent" value="82752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19553503" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19553503" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.328594" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.32913387" />
       <window_info anchor="right" id="LuaJ" order="3" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.328594" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -327,6 +301,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.328594" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
@@ -340,7 +315,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -348,9 +323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -365,9 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -396,9 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#114#142#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -427,9 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -458,9 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding>
-            <element signature="e#114#142#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -489,9 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -520,9 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding>
-            <element signature="e#114#142#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,9 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1095">
           <caret line="73" column="60" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -595,9 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="e#114#142#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -605,26 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="e#100#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scenes/Piso1/Include/Piso1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -645,15 +573,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="e#120#148#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scenes/CharacterSelect/Include/CharacterSelect.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="38" selection-start-line="127" selection-start-column="38" selection-end-line="127" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scenes/Scenes.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
+        <state relative-caret-position="270">
           <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
           <folding>
             <element signature="e#102#148#0" expanded="true" />
@@ -661,10 +600,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scenes/CharacterSelect/Include/CharacterSelect.cpp">
+    <entry file="file://$PROJECT_DIR$/Scenes/Scenes.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1635">
-          <caret line="109" column="45" lean-forward="true" selection-start-line="109" selection-start-column="45" selection-end-line="109" selection-end-column="45" />
+        <state relative-caret-position="240">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -675,10 +614,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scenes/Scenes.cpp">
+    <entry file="file://$PROJECT_DIR$/Scenes/Piso1/Include/Piso1.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="720">
+          <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persona/Persona.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persona/Persona.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -686,20 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Persona/Persona.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Persona/Persona.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
