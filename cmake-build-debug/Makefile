@@ -204,6 +204,33 @@ Scenes/CharacterSelect/Include/CharacterSelect.cpp.s:
 	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/CharacterSelect/Include/CharacterSelect.cpp.s
 .PHONY : Scenes/CharacterSelect/Include/CharacterSelect.cpp.s
 
+Scenes/FightScreen/Include/FightScreen.o: Scenes/FightScreen/Include/FightScreen.cpp.o
+
+.PHONY : Scenes/FightScreen/Include/FightScreen.o
+
+# target to build an object file
+Scenes/FightScreen/Include/FightScreen.cpp.o:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.o
+.PHONY : Scenes/FightScreen/Include/FightScreen.cpp.o
+
+Scenes/FightScreen/Include/FightScreen.i: Scenes/FightScreen/Include/FightScreen.cpp.i
+
+.PHONY : Scenes/FightScreen/Include/FightScreen.i
+
+# target to preprocess a source file
+Scenes/FightScreen/Include/FightScreen.cpp.i:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.i
+.PHONY : Scenes/FightScreen/Include/FightScreen.cpp.i
+
+Scenes/FightScreen/Include/FightScreen.s: Scenes/FightScreen/Include/FightScreen.cpp.s
+
+.PHONY : Scenes/FightScreen/Include/FightScreen.s
+
+# target to generate assembly for a file
+Scenes/FightScreen/Include/FightScreen.cpp.s:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.s
+.PHONY : Scenes/FightScreen/Include/FightScreen.cpp.s
+
 Scenes/Introduction/Include/Introduction.o: Scenes/Introduction/Include/Introduction.cpp.o
 
 .PHONY : Scenes/Introduction/Include/Introduction.o
@@ -357,6 +384,9 @@ help:
 	@echo "... Scenes/CharacterSelect/Include/CharacterSelect.o"
 	@echo "... Scenes/CharacterSelect/Include/CharacterSelect.i"
 	@echo "... Scenes/CharacterSelect/Include/CharacterSelect.s"
+	@echo "... Scenes/FightScreen/Include/FightScreen.o"
+	@echo "... Scenes/FightScreen/Include/FightScreen.i"
+	@echo "... Scenes/FightScreen/Include/FightScreen.s"
 	@echo "... Scenes/Introduction/Include/Introduction.o"
 	@echo "... Scenes/Introduction/Include/Introduction.i"
 	@echo "... Scenes/Introduction/Include/Introduction.s"

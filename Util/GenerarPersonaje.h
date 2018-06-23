@@ -13,11 +13,7 @@ class GenerarPersonaje {
 public:
     GenerarPersonaje(Protagonista& persona): persona(persona) {}
 
-    void updateType(string type) {
-     /*  if(persona.CARRERA != "")
-           ++ persona;
-       else
-       */
+    void CreateType(string type) {
      persona = Protagonista(100,10,10,10,10,type);
     }
 };

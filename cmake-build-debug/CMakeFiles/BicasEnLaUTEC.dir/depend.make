@@ -5,6 +5,7 @@ CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Controller.cpp
 CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Controller.h
 CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Persona/Persona.h
 CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Scenes/CharacterSelect/Include/CharacterSelect.h
+CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Scenes/FightScreen/Include/FightScreen.h
 CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Scenes/Introduction/Include/Introduction.h
 CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Scenes/Piso1/Include/Piso1.h
 CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Scenes/Scenes.h
@@ -16,6 +17,11 @@ CMakeFiles/BicasEnLaUTEC.dir/Persona/Persona.cpp.o: ../Persona/Persona.h
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/CharacterSelect/Include/CharacterSelect.cpp.o: ../Scenes/CharacterSelect/Include/CharacterSelect.cpp
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/CharacterSelect/Include/CharacterSelect.cpp.o: ../Scenes/CharacterSelect/Include/CharacterSelect.h
 
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.o: ../Persona/Persona.h
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.o: ../Scenes/FightScreen/Include/FightScreen.cpp
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.o: ../Scenes/FightScreen/Include/FightScreen.h
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.o: ../Util/GenerarPersonaje.h
+
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/Introduction/Include/Introduction.cpp.o: ../Scenes/Introduction/Include/Introduction.cpp
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/Introduction/Include/Introduction.cpp.o: ../Scenes/Introduction/Include/Introduction.h
 
@@ -24,6 +30,7 @@ CMakeFiles/BicasEnLaUTEC.dir/Scenes/Piso1/Include/Piso1.cpp.o: ../Scenes/Piso1/I
 
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o: ../Persona/Persona.h
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o: ../Scenes/CharacterSelect/Include/CharacterSelect.h
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o: ../Scenes/FightScreen/Include/FightScreen.h
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o: ../Scenes/Introduction/Include/Introduction.h
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o: ../Scenes/Piso1/Include/Piso1.h
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o: ../Scenes/Scenes.cpp
@@ -37,6 +44,7 @@ CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o: ../Util/GenerarPersona
 CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Controller.h
 CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Persona/Persona.h
 CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Scenes/CharacterSelect/Include/CharacterSelect.h
+CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Scenes/FightScreen/Include/FightScreen.h
 CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Scenes/Introduction/Include/Introduction.h
 CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Scenes/Piso1/Include/Piso1.h
 CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Scenes/Scenes.h

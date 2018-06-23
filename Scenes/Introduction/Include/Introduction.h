@@ -11,7 +11,7 @@ using namespace sf;
 using namespace std;
 
 class Introduction{
-    int TrianglePos = 420;
+    int TrianglePos = 570;
     SoundBuffer SoundBuff;
     Sound SelectButton;
 public:

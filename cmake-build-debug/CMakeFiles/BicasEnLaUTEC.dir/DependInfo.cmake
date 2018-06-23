@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/chip/CLionProjects/BicasEnLaUTEC/Controller.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o"
   "/home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Persona/Persona.cpp.o"
   "/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/CharacterSelect/Include/CharacterSelect.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/CharacterSelect/Include/CharacterSelect.cpp.o"
+  "/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.o"
   "/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Include/Introduction.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/Introduction/Include/Introduction.cpp.o"
   "/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/Piso1/Include/Piso1.cpp.o"
   "/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o"

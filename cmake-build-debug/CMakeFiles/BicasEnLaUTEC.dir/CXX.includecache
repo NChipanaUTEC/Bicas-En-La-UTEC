@@ -38,6 +38,20 @@ SFML/Audio.hpp
 string
 -
 
+/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.cpp
+FightScreen.h
+/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.h
+
+/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.h
+SFML/Graphics.hpp
+/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/SFML/Graphics.hpp
+SFML/Audio.hpp
+/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/SFML/Audio.hpp
+../../../Util/GenerarPersonaje.h
+/home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
+iostream
+-
+
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Include/Introduction.cpp
 Introduction.h
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Include/Introduction.h
@@ -57,7 +71,7 @@ SFML/Graphics.hpp
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/SFML/Graphics.hpp
 SFML/Audio.hpp
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/SFML/Audio.hpp
-iostream
+cstdlib
 -
 
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.cpp
@@ -71,6 +85,8 @@ CharacterSelect/Include/CharacterSelect.h
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/CharacterSelect/Include/CharacterSelect.h
 Piso1/Include/Piso1.h
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.h
+FightScreen/Include/FightScreen.h
+/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.h
 ../Util/GenerarPersonaje.h
 /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
 
