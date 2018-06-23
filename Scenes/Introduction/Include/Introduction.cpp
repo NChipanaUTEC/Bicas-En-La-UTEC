@@ -11,13 +11,14 @@ Introduction::Introduction() {
 
 int Introduction::Draw(RenderWindow &window, Event &evento) {
     Texture BGTexture;
-        BGTexture.loadFromFile("../Scenes/Introduction/Graphics/BG-UTEC.jpg");
+        BGTexture.loadFromFile("../Scenes/Introduction/Graphics/BicasUTECTitle.png");
     Sprite Background;
         Background.setTexture(BGTexture);
-        Background.setScale(1.8,1.8);
+        Background.setScale(0.65,0.65);
+        Background.setPosition(0,-50);
     CircleShape Triangle(10,3);
         Triangle.rotate(90);
-        Triangle.setFillColor(Color::Black);
+        Triangle.setFillColor(Color::White);
         Triangle.setPosition((window.getSize().x)/3,TrianglePos);
         Triangle.setScale(1.8,1.8);
     Font LetterFont;
@@ -27,14 +28,14 @@ int Introduction::Draw(RenderWindow &window, Event &evento) {
         Start.setString("START");
         Start.setCharacterSize(50);
         Start.setFillColor(Color::White);
-        Start.setPosition((window.getSize().x)/2.9,365);
+        Start.setPosition((window.getSize().x)/2.5,520);
         Start.setScale(1.8,1.8);
     Text Exit;
         Exit.setFont(LetterFont);
         Exit.setString("EXIT");
         Exit.setCharacterSize(50);
         Exit.setFillColor(Color::White);
-        Exit.setPosition((window.getSize().x)/2.9,465);
+        Exit.setPosition((window.getSize().x)/2.5,570);
         Exit.setScale(1.8,1.8);
         
     SoundBuff.loadFromFile("../Scenes/Introduction/Sounds/FGBS(27).wav");
@@ -47,25 +48,25 @@ int Introduction::Draw(RenderWindow &window, Event &evento) {
                     window.close();
                     break;
                 case Event::KeyPressed:
-                    if(evento.key.code == sf::Keyboard::Down) {
+                    if(evento.key.code == Keyboard::Down) {
                         SelectButton.play();
-                        if(TrianglePos == 420){
-                            TrianglePos +=100;
-                            Triangle.move(0,100);
+                        if(TrianglePos == 570){
+                            TrianglePos +=50;
+                            Triangle.move(0,50);
                             break;}
                     }
                     else if (evento.key.code == Keyboard::Up) {
                         SelectButton.play();
-                        if (TrianglePos == 520){
-                            TrianglePos -=100;
-                            Triangle.move(0,-100);
+                        if (TrianglePos == 620){
+                            TrianglePos -=50;
+                            Triangle.move(0,-50);
                             break;}
                     }
                     else if(evento.key.code == Keyboard::Z) {
-                        if(TrianglePos=420){
-                            return 1;
+                        if(TrianglePos==570){
+                            return 0;
                         }
-                        if(TrianglePos==520) {
+                        if(TrianglePos==620) {
                             window.close();
                         }
                         break;

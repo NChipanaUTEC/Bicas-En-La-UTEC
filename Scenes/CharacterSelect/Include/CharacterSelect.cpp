@@ -87,9 +87,6 @@ string CharacterSelect::Draw(RenderWindow &window, Event &evento) {
         BI.setPosition(80,450);
         BI.setScale(1.8,1.8);
 
-
-    //SoundBuff.loadFromFile("../Scenes/Introduction/Sounds/Accept_Button.ogg");
-    //AButton.setBuffer(SoundBuff);
     SoundBuff.loadFromFile("../Scenes/Introduction/Sounds/FGBS(27).wav");
     SelectButton.setBuffer(SoundBuff);
 
@@ -100,7 +97,7 @@ string CharacterSelect::Draw(RenderWindow &window, Event &evento) {
                     window.close();
                     break;
                 case Event::KeyPressed:
-                    if(evento.key.code == sf::Keyboard::Down) {
+                    if(evento.key.code == Keyboard::Down) {
                         SelectButton.play();
                         if (TrianglePos == 495){
                             TrianglePos -=405;
@@ -124,8 +121,27 @@ string CharacterSelect::Draw(RenderWindow &window, Event &evento) {
                         }
                     }
                     else if(evento.key.code == Keyboard::Z) {
-                        if(TrianglePos % 45 == 0){
-                            return "CS";
+                        switch(TrianglePos){
+                            case(45):
+                                return "Ingenieria Industrial";
+                            case(90):
+                                return "Ingenieria de la Energía";
+                            case(135):
+                                return "Ingenieria Civil";
+                            case(180):
+                                return "Ingenieria Quimica";
+                            case(225):
+                                return "Ingenieria Electronica";
+                            case(270):
+                                return "Ingenieria Mecanica";
+                            case(315):
+                                return "Ingenieria Ambiental";
+                            case(360):
+                                return "Ciencias de la Computacion";
+                            case(405):
+                                return "Ingenieria Mecatronica";
+                            case(450):
+                                return "Bioingenieria";
                         }
                     }
             }

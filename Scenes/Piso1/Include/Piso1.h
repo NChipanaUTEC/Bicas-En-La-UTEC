@@ -7,17 +7,16 @@
 
 #include "SFML/Graphics.hpp"
 #include "SFML/Audio.hpp"
-#include <iostream>
+#include <cstdlib>
 using namespace sf;
 using namespace std;
 
 class Piso1 {
-    SoundBuffer SoundBuff;
-    Sound AButton;
-    Sound SelectButton;
     Music Soundtrack;
+    Clock clock1;
     int BackX = -250;
     int BackY = -1700;
+    int EncounterValue;
 public:
     Piso1();
     int Draw(RenderWindow &window, Event &evento);

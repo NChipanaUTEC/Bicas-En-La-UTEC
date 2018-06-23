@@ -110,6 +110,12 @@
 		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/CharacterSelect/Include/CharacterSelect.h">
 			<Option target="BicasEnLaUTEC"/>
 		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.cpp">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.h">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
 		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Include/Introduction.cpp">
 			<Option target="BicasEnLaUTEC"/>
 		</Unit>
