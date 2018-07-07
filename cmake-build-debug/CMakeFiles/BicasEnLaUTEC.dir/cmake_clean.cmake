@@ -8,6 +8,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/BicasEnLaUTEC.dir/Scenes/Piso1/Include/Piso1.cpp.o"
   "CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o"
   "CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.o"
+  "CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o"
   "BicasEnLaUTEC.pdb"
   "BicasEnLaUTEC"
 )

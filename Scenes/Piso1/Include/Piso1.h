@@ -5,6 +5,8 @@
 #ifndef BICASENLAUTEC_PISO1_H
 #define BICASENLAUTEC_PISO1_H
 
+#include <iostream>
+
 #include "SFML/Graphics.hpp"
 #include "SFML/Audio.hpp"
 #include <cstdlib>
@@ -13,6 +15,7 @@ using namespace std;
 
 class Piso1 {
     Music Soundtrack;
+    Music Collision;
     Clock clock1;
     int BackX = -250;
     int BackY = -1700;

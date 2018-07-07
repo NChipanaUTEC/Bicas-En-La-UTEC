@@ -17,7 +17,7 @@ endif()
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${SFML_ROOT}/cmake/Modules")
 
 include_directories(Scenes/Introduction/Graphics Scenes/Introduction/Sounds Scenes/Introduction/Fonts Persona)
-set(SOURCE_FILES main.cpp Controller.cpp Controller.h Scenes/Introduction/Include/Introduction.cpp Scenes/Introduction/Include/Introduction.h Scenes/Scenes.cpp Scenes/Scenes.h Persona/Persona.cpp Persona/Persona.h Scenes/CharacterSelect/Include/CharacterSelect.cpp Scenes/CharacterSelect/Include/CharacterSelect.h Scenes/Piso1/Include/Piso1.cpp Scenes/Piso1/Include/Piso1.h Util/GenerarPersonaje.cpp Util/GenerarPersonaje.h Scenes/FightScreen/Include/FightScreen.cpp Scenes/FightScreen/Include/FightScreen.h)
+set(SOURCE_FILES main.cpp Controller.cpp Controller.h Scenes/Introduction/Include/Introduction.cpp Scenes/Introduction/Include/Introduction.h Scenes/Scenes.cpp Scenes/Scenes.h Persona/Persona.cpp Persona/Persona.h Scenes/CharacterSelect/Include/CharacterSelect.cpp Scenes/CharacterSelect/Include/CharacterSelect.h Scenes/Piso1/Include/Piso1.cpp Scenes/Piso1/Include/Piso1.h Util/GenerarPersonaje.cpp Util/GenerarPersonaje.h Scenes/FightScreen/Include/FightScreen.cpp Scenes/FightScreen/Include/FightScreen.h Scenes/StatScreen/Include/StatScreen.cpp Scenes/StatScreen/Include/StatScreen.h)
 add_executable(${CMAKE_PROJECT_NAME} ${SOURCE_FILES})
 
 if(WIN32)

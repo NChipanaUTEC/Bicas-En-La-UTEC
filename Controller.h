@@ -16,7 +16,7 @@ class Controller {
     Scenes scene;
     Protagonista prota;
 public:
-    Controller(RenderWindow &window, Event &evento):window(window),evento(evento),prota(0,0,0,0,0,""){}
+    Controller(RenderWindow &window, Event &evento):window(window),evento(evento),prota(0,0,0,0,0,"",0,0){}
     void SceneDraw();
 };
 

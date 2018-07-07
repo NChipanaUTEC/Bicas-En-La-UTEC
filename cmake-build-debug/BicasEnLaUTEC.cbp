@@ -134,6 +134,12 @@
 		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.h">
 			<Option target="BicasEnLaUTEC"/>
 		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.cpp">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
 		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.cpp">
 			<Option target="BicasEnLaUTEC"/>
 		</Unit>

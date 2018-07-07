@@ -9,6 +9,7 @@ CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Scenes/FightScreen/Include/Fig
 CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Scenes/Introduction/Include/Introduction.h
 CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Scenes/Piso1/Include/Piso1.h
 CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Scenes/Scenes.h
+CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Scenes/StatScreen/Include/StatScreen.h
 CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o: ../Util/GenerarPersonaje.h
 
 CMakeFiles/BicasEnLaUTEC.dir/Persona/Persona.cpp.o: ../Persona/Persona.cpp
@@ -35,7 +36,13 @@ CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o: ../Scenes/Introduction/Include
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o: ../Scenes/Piso1/Include/Piso1.h
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o: ../Scenes/Scenes.cpp
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o: ../Scenes/Scenes.h
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o: ../Scenes/StatScreen/Include/StatScreen.h
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o: ../Util/GenerarPersonaje.h
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o: ../Persona/Persona.h
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o: ../Scenes/StatScreen/Include/StatScreen.cpp
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o: ../Scenes/StatScreen/Include/StatScreen.h
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o: ../Util/GenerarPersonaje.h
 
 CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o: ../Persona/Persona.h
 CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o: ../Util/GenerarPersonaje.cpp
@@ -48,6 +55,7 @@ CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Scenes/FightScreen/Include/FightScre
 CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Scenes/Introduction/Include/Introduction.h
 CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Scenes/Piso1/Include/Piso1.h
 CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Scenes/Scenes.h
+CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Scenes/StatScreen/Include/StatScreen.h
 CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../Util/GenerarPersonaje.h
 CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o: ../main.cpp
 

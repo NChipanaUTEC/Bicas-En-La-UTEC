@@ -5,7 +5,10 @@
 #include "FightScreen.h"
 
 int FightScreen::Draw(RenderWindow &window, Event &evento, GenerarPersonaje& gp) {
-
+    srand(time(nullptr));
+    SpriteRandom = rand()%3;
+    gp.GetType(ProtaData);
+    
     Texture BGTexture;
         BGTexture.loadFromFile("../Scenes/FightScreen/Graphics/piso1battle.png");
     Sprite Background(BGTexture);
@@ -15,13 +18,31 @@ int FightScreen::Draw(RenderWindow &window, Event &evento, GenerarPersonaje& gp)
     Texture ProtaTextura;
         ProtaTextura.loadFromFile("../Scenes/FightScreen/Graphics/yosuke.png");
     Sprite Protagonista(ProtaTextura);
-        Protagonista.setPosition(170,70);
+        Protagonista.setPosition(200,80);
 
     Texture EnemigoTextura;
-        EnemigoTextura.loadFromFile("../Scenes/FightScreen/Graphics/barcelo.png");
-     Sprite Enemigo(EnemigoTextura);
-        Enemigo.setPosition(575,70);
-        Enemigo.setScale(0.6,0.6);
+    Sprite Enemigo;
+        switch (SpriteRandom){
+            case 0:
+                EnemigoTextura.loadFromFile("../Scenes/FightScreen/Graphics/pingpong.png");
+                Enemigo.setTexture(EnemigoTextura);
+                Enemigo.setPosition(575,130);
+                Enemigo.setScale(0.1,0.1);
+                break;
+            case 1:
+                EnemigoTextura.loadFromFile("../Scenes/FightScreen/Graphics/barcelo.png");
+                Enemigo.setTexture(EnemigoTextura);
+                Enemigo.setPosition(600,70);
+                Enemigo.setScale(0.6,0.6);
+                break;
+            case 2:
+                EnemigoTextura.loadFromFile("../Scenes/FightScreen/Graphics/dota2_logo.png");
+                Enemigo.setTexture(EnemigoTextura);
+                Enemigo.setPosition(575,130);
+                Enemigo.setScale(0.5,0.5);
+                break;
+        }
+
 
     CircleShape Triangle(10,3);
         Triangle.rotate(90);

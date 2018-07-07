@@ -12,9 +12,8 @@ class GenerarPersonaje {
     Protagonista& persona;
 public:
     GenerarPersonaje(Protagonista& persona): persona(persona) {}
-
-    void CreateType(string type) {
-     persona = Protagonista(100,10,10,10,10,type);
-    }
+    void CreateType(string type);
+    void GetType (int(&data)[7]);
+    void GetCarrera(string& carrera);
 };
 #endif //BICASENLAUTEC_GENERARPERSONAJE_H

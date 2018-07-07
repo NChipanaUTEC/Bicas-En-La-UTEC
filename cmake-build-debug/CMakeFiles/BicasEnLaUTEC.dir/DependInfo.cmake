@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Include/Introduction.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/Introduction/Include/Introduction.cpp.o"
   "/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/Piso1/Include/Piso1.cpp.o"
   "/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o"
+  "/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o"
   "/home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o"
   "/home/chip/CLionProjects/BicasEnLaUTEC/main.cpp" "/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o"
   )

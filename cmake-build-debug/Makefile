@@ -312,6 +312,33 @@ Scenes/Scenes.cpp.s:
 	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.s
 .PHONY : Scenes/Scenes.cpp.s
 
+Scenes/StatScreen/Include/StatScreen.o: Scenes/StatScreen/Include/StatScreen.cpp.o
+
+.PHONY : Scenes/StatScreen/Include/StatScreen.o
+
+# target to build an object file
+Scenes/StatScreen/Include/StatScreen.cpp.o:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o
+.PHONY : Scenes/StatScreen/Include/StatScreen.cpp.o
+
+Scenes/StatScreen/Include/StatScreen.i: Scenes/StatScreen/Include/StatScreen.cpp.i
+
+.PHONY : Scenes/StatScreen/Include/StatScreen.i
+
+# target to preprocess a source file
+Scenes/StatScreen/Include/StatScreen.cpp.i:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.i
+.PHONY : Scenes/StatScreen/Include/StatScreen.cpp.i
+
+Scenes/StatScreen/Include/StatScreen.s: Scenes/StatScreen/Include/StatScreen.cpp.s
+
+.PHONY : Scenes/StatScreen/Include/StatScreen.s
+
+# target to generate assembly for a file
+Scenes/StatScreen/Include/StatScreen.cpp.s:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.s
+.PHONY : Scenes/StatScreen/Include/StatScreen.cpp.s
+
 Util/GenerarPersonaje.o: Util/GenerarPersonaje.cpp.o
 
 .PHONY : Util/GenerarPersonaje.o
@@ -396,6 +423,9 @@ help:
 	@echo "... Scenes/Scenes.o"
 	@echo "... Scenes/Scenes.i"
 	@echo "... Scenes/Scenes.s"
+	@echo "... Scenes/StatScreen/Include/StatScreen.o"
+	@echo "... Scenes/StatScreen/Include/StatScreen.i"
+	@echo "... Scenes/StatScreen/Include/StatScreen.s"
 	@echo "... Util/GenerarPersonaje.o"
 	@echo "... Util/GenerarPersonaje.i"
 	@echo "... Util/GenerarPersonaje.s"

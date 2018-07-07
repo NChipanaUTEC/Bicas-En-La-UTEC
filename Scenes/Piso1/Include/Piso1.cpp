@@ -1,25 +1,28 @@
 //
 // Created by chip on 16/06/18.
 //
-
+#include <iostream>
 #include "Piso1.h"
 
+using namespace std;
 Piso1::Piso1(){
 
 };
 
 int Piso1::Draw(RenderWindow &window, Event &evento)
 {
-    srand(time(NULL));
+    srand(time(nullptr));
     Soundtrack.openFromFile("../Scenes/Piso1/Sounds/Neon District.wav");
         Soundtrack.setLoop(true);
         Soundtrack.play();
+
     Texture BGTexture;
         BGTexture.loadFromFile("../Scenes/Piso1/Graphics/piso1background.png");
     Sprite Background;
         Background.setTexture(BGTexture);
         Background.setScale(8,7.5);
         Background.setPosition(BackX,BackY);
+
 
     Texture FGTexture;
         FGTexture.loadFromFile("../Scenes/Piso1/Graphics/piso1foreground.png");
@@ -48,6 +51,16 @@ int Piso1::Draw(RenderWindow &window, Event &evento)
                             BackY -= 10;
                             Background.move(0,-10);
                             Foreground.move(0,-10);
+                            /*
+                            if(Protagonista.getLocalBounds().intersects(Foreground.getLocalBounds()))
+                            {
+                                Collision.openFromFile("../Scenes/Piso1/Sounds/oof.ogg");
+                                Collision.play();
+                                BackY += 10;
+                                Background.move(0, 10);
+                                Foreground.move(0, 10);
+                            }
+                             */
                             if(clock1.getElapsedTime().asMilliseconds()>64){
                                 SpriteBx.top = 0;
                                 if (SpriteBx.left == 0)
@@ -123,6 +136,10 @@ int Piso1::Draw(RenderWindow &window, Event &evento)
                             }
                             break;
                         }
+                        else if(evento.key.code == Keyboard::C){
+                            Soundtrack.stop();
+                            return 1;
+                        }
                     }
                     else{
                         Soundtrack.stop();
@@ -130,8 +147,8 @@ int Piso1::Draw(RenderWindow &window, Event &evento)
                     }
             }
             window.clear();
-            window.draw(Background);
             window.draw(Foreground);
+            window.draw(Background);
             window.draw(Protagonista);
             window.display();
         }

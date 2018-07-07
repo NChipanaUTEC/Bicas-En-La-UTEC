@@ -51,6 +51,8 @@ SFML/Audio.hpp
 /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
 iostream
 -
+cstdlib
+-
 
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Include/Introduction.cpp
 Introduction.h
@@ -63,10 +65,14 @@ SFML/Audio.hpp
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Include/SFML/Audio.hpp
 
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.cpp
+iostream
+-
 Piso1.h
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.h
 
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.h
+iostream
+-
 SFML/Graphics.hpp
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/SFML/Graphics.hpp
 SFML/Audio.hpp
@@ -87,8 +93,26 @@ Piso1/Include/Piso1.h
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.h
 FightScreen/Include/FightScreen.h
 /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.h
+StatScreen/Include/StatScreen.h
+/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h
 ../Util/GenerarPersonaje.h
 /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
+
+/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.cpp
+StatScreen.h
+/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h
+
+/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h
+string
+-
+SFML/Graphics.hpp
+/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/SFML/Graphics.hpp
+SFML/Audio.hpp
+/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/SFML/Audio.hpp
+../../../Util/GenerarPersonaje.h
+/home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
+iostream
+-
 
 /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.cpp
 GenerarPersonaje.h

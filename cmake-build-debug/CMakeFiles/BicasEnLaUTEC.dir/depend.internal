@@ -10,6 +10,7 @@ CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Include/Introduction.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
 CMakeFiles/BicasEnLaUTEC.dir/Persona/Persona.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.cpp
@@ -36,6 +37,12 @@ CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.cpp
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o
+ /home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.cpp
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
 CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.h
@@ -49,5 +56,6 @@ CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Include/Introduction.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
  /home/chip/CLionProjects/BicasEnLaUTEC/main.cpp

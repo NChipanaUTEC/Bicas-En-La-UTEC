@@ -122,25 +122,25 @@ string CharacterSelect::Draw(RenderWindow &window, Event &evento) {
                     }
                     else if(evento.key.code == Keyboard::Z) {
                         switch(TrianglePos){
-                            case(45):
-                                return "Ingenieria Industrial";
                             case(90):
-                                return "Ingenieria de la Energía";
+                                return "Ingenieria Industrial";
                             case(135):
-                                return "Ingenieria Civil";
+                                return "Ingenieria de la Energia";
                             case(180):
-                                return "Ingenieria Quimica";
+                                return "Ingenieria Civil";
                             case(225):
-                                return "Ingenieria Electronica";
+                                return "Ingenieria Quimica";
                             case(270):
-                                return "Ingenieria Mecanica";
+                                return "Ingenieria Electronica";
                             case(315):
-                                return "Ingenieria Ambiental";
+                                return "Ingenieria Mecanica";
                             case(360):
-                                return "Ciencias de la Computacion";
+                                return "Ingenieria Ambiental";
                             case(405):
-                                return "Ingenieria Mecatronica";
+                                return "Ciencias de la Computacion";
                             case(450):
+                                return "Ingenieria Mecatronica";
+                            case(495):
                                 return "Bioingenieria";
                         }
                     }
