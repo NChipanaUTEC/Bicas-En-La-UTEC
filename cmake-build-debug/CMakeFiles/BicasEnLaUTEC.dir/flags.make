@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Graphics -I/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Sounds -I/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Fonts -I/home/chip/CLionProjects/BicasEnLaUTEC/Persona 
+CXX_INCLUDES = 
 

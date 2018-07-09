@@ -177,6 +177,60 @@ Persona/Persona.cpp.s:
 	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Persona/Persona.cpp.s
 .PHONY : Persona/Persona.cpp.s
 
+Scenes/Auditorio/Include/Auditorio.o: Scenes/Auditorio/Include/Auditorio.cpp.o
+
+.PHONY : Scenes/Auditorio/Include/Auditorio.o
+
+# target to build an object file
+Scenes/Auditorio/Include/Auditorio.cpp.o:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o
+.PHONY : Scenes/Auditorio/Include/Auditorio.cpp.o
+
+Scenes/Auditorio/Include/Auditorio.i: Scenes/Auditorio/Include/Auditorio.cpp.i
+
+.PHONY : Scenes/Auditorio/Include/Auditorio.i
+
+# target to preprocess a source file
+Scenes/Auditorio/Include/Auditorio.cpp.i:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.i
+.PHONY : Scenes/Auditorio/Include/Auditorio.cpp.i
+
+Scenes/Auditorio/Include/Auditorio.s: Scenes/Auditorio/Include/Auditorio.cpp.s
+
+.PHONY : Scenes/Auditorio/Include/Auditorio.s
+
+# target to generate assembly for a file
+Scenes/Auditorio/Include/Auditorio.cpp.s:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.s
+.PHONY : Scenes/Auditorio/Include/Auditorio.cpp.s
+
+Scenes/BossScreen/Include/BossScreen.o: Scenes/BossScreen/Include/BossScreen.cpp.o
+
+.PHONY : Scenes/BossScreen/Include/BossScreen.o
+
+# target to build an object file
+Scenes/BossScreen/Include/BossScreen.cpp.o:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o
+.PHONY : Scenes/BossScreen/Include/BossScreen.cpp.o
+
+Scenes/BossScreen/Include/BossScreen.i: Scenes/BossScreen/Include/BossScreen.cpp.i
+
+.PHONY : Scenes/BossScreen/Include/BossScreen.i
+
+# target to preprocess a source file
+Scenes/BossScreen/Include/BossScreen.cpp.i:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.i
+.PHONY : Scenes/BossScreen/Include/BossScreen.cpp.i
+
+Scenes/BossScreen/Include/BossScreen.s: Scenes/BossScreen/Include/BossScreen.cpp.s
+
+.PHONY : Scenes/BossScreen/Include/BossScreen.s
+
+# target to generate assembly for a file
+Scenes/BossScreen/Include/BossScreen.cpp.s:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.s
+.PHONY : Scenes/BossScreen/Include/BossScreen.cpp.s
+
 Scenes/CharacterSelect/Include/CharacterSelect.o: Scenes/CharacterSelect/Include/CharacterSelect.cpp.o
 
 .PHONY : Scenes/CharacterSelect/Include/CharacterSelect.o
@@ -203,6 +257,33 @@ Scenes/CharacterSelect/Include/CharacterSelect.s: Scenes/CharacterSelect/Include
 Scenes/CharacterSelect/Include/CharacterSelect.cpp.s:
 	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/CharacterSelect/Include/CharacterSelect.cpp.s
 .PHONY : Scenes/CharacterSelect/Include/CharacterSelect.cpp.s
+
+Scenes/Defeat/Include/Defeat.o: Scenes/Defeat/Include/Defeat.cpp.o
+
+.PHONY : Scenes/Defeat/Include/Defeat.o
+
+# target to build an object file
+Scenes/Defeat/Include/Defeat.cpp.o:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o
+.PHONY : Scenes/Defeat/Include/Defeat.cpp.o
+
+Scenes/Defeat/Include/Defeat.i: Scenes/Defeat/Include/Defeat.cpp.i
+
+.PHONY : Scenes/Defeat/Include/Defeat.i
+
+# target to preprocess a source file
+Scenes/Defeat/Include/Defeat.cpp.i:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.i
+.PHONY : Scenes/Defeat/Include/Defeat.cpp.i
+
+Scenes/Defeat/Include/Defeat.s: Scenes/Defeat/Include/Defeat.cpp.s
+
+.PHONY : Scenes/Defeat/Include/Defeat.s
+
+# target to generate assembly for a file
+Scenes/Defeat/Include/Defeat.cpp.s:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.s
+.PHONY : Scenes/Defeat/Include/Defeat.cpp.s
 
 Scenes/FightScreen/Include/FightScreen.o: Scenes/FightScreen/Include/FightScreen.cpp.o
 
@@ -339,6 +420,60 @@ Scenes/StatScreen/Include/StatScreen.cpp.s:
 	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.s
 .PHONY : Scenes/StatScreen/Include/StatScreen.cpp.s
 
+Scenes/Transition/Include/Transition.o: Scenes/Transition/Include/Transition.cpp.o
+
+.PHONY : Scenes/Transition/Include/Transition.o
+
+# target to build an object file
+Scenes/Transition/Include/Transition.cpp.o:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o
+.PHONY : Scenes/Transition/Include/Transition.cpp.o
+
+Scenes/Transition/Include/Transition.i: Scenes/Transition/Include/Transition.cpp.i
+
+.PHONY : Scenes/Transition/Include/Transition.i
+
+# target to preprocess a source file
+Scenes/Transition/Include/Transition.cpp.i:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.i
+.PHONY : Scenes/Transition/Include/Transition.cpp.i
+
+Scenes/Transition/Include/Transition.s: Scenes/Transition/Include/Transition.cpp.s
+
+.PHONY : Scenes/Transition/Include/Transition.s
+
+# target to generate assembly for a file
+Scenes/Transition/Include/Transition.cpp.s:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.s
+.PHONY : Scenes/Transition/Include/Transition.cpp.s
+
+Scenes/Win/Include/Win.o: Scenes/Win/Include/Win.cpp.o
+
+.PHONY : Scenes/Win/Include/Win.o
+
+# target to build an object file
+Scenes/Win/Include/Win.cpp.o:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o
+.PHONY : Scenes/Win/Include/Win.cpp.o
+
+Scenes/Win/Include/Win.i: Scenes/Win/Include/Win.cpp.i
+
+.PHONY : Scenes/Win/Include/Win.i
+
+# target to preprocess a source file
+Scenes/Win/Include/Win.cpp.i:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.i
+.PHONY : Scenes/Win/Include/Win.cpp.i
+
+Scenes/Win/Include/Win.s: Scenes/Win/Include/Win.cpp.s
+
+.PHONY : Scenes/Win/Include/Win.s
+
+# target to generate assembly for a file
+Scenes/Win/Include/Win.cpp.s:
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.s
+.PHONY : Scenes/Win/Include/Win.cpp.s
+
 Util/GenerarPersonaje.o: Util/GenerarPersonaje.cpp.o
 
 .PHONY : Util/GenerarPersonaje.o
@@ -408,9 +543,18 @@ help:
 	@echo "... Persona/Persona.o"
 	@echo "... Persona/Persona.i"
 	@echo "... Persona/Persona.s"
+	@echo "... Scenes/Auditorio/Include/Auditorio.o"
+	@echo "... Scenes/Auditorio/Include/Auditorio.i"
+	@echo "... Scenes/Auditorio/Include/Auditorio.s"
+	@echo "... Scenes/BossScreen/Include/BossScreen.o"
+	@echo "... Scenes/BossScreen/Include/BossScreen.i"
+	@echo "... Scenes/BossScreen/Include/BossScreen.s"
 	@echo "... Scenes/CharacterSelect/Include/CharacterSelect.o"
 	@echo "... Scenes/CharacterSelect/Include/CharacterSelect.i"
 	@echo "... Scenes/CharacterSelect/Include/CharacterSelect.s"
+	@echo "... Scenes/Defeat/Include/Defeat.o"
+	@echo "... Scenes/Defeat/Include/Defeat.i"
+	@echo "... Scenes/Defeat/Include/Defeat.s"
 	@echo "... Scenes/FightScreen/Include/FightScreen.o"
 	@echo "... Scenes/FightScreen/Include/FightScreen.i"
 	@echo "... Scenes/FightScreen/Include/FightScreen.s"
@@ -426,6 +570,12 @@ help:
 	@echo "... Scenes/StatScreen/Include/StatScreen.o"
 	@echo "... Scenes/StatScreen/Include/StatScreen.i"
 	@echo "... Scenes/StatScreen/Include/StatScreen.s"
+	@echo "... Scenes/Transition/Include/Transition.o"
+	@echo "... Scenes/Transition/Include/Transition.i"
+	@echo "... Scenes/Transition/Include/Transition.s"
+	@echo "... Scenes/Win/Include/Win.o"
+	@echo "... Scenes/Win/Include/Win.i"
+	@echo "... Scenes/Win/Include/Win.s"
 	@echo "... Util/GenerarPersonaje.o"
 	@echo "... Util/GenerarPersonaje.i"
 	@echo "... Util/GenerarPersonaje.s"

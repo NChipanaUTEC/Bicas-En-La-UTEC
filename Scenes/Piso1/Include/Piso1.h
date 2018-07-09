@@ -15,13 +15,14 @@ using namespace std;
 
 class Piso1 {
     Music Soundtrack;
-    Music Collision;
+    SoundBuffer Sf;
+    Sound Collision;
     Clock clock1;
     int BackX = -250;
     int BackY = -1700;
-    int EncounterValue;
+    int EncounterValue = 0;
 public:
-    Piso1();
+    Piso1(){}
     int Draw(RenderWindow &window, Event &evento);
 };
 

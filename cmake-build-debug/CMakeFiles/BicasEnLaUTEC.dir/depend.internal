@@ -5,19 +5,35 @@ CMakeFiles/BicasEnLaUTEC.dir/Controller.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Controller.cpp
  /home/chip/CLionProjects/BicasEnLaUTEC/Controller.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Auditorio/Include/Auditorio.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/BossScreen/Include/BossScreen.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/CharacterSelect/Include/CharacterSelect.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Defeat/Include/Defeat.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Include/Introduction.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Transition/Include/Transition.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Win/Include/Win.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
 CMakeFiles/BicasEnLaUTEC.dir/Persona/Persona.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.cpp
  /home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.h
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Auditorio/Include/Auditorio.cpp
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Auditorio/Include/Auditorio.h
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o
+ /home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/BossScreen/Include/BossScreen.cpp
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/BossScreen/Include/BossScreen.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/CharacterSelect/Include/CharacterSelect.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/CharacterSelect/Include/CharacterSelect.cpp
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/CharacterSelect/Include/CharacterSelect.h
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Defeat/Include/Defeat.cpp
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Defeat/Include/Defeat.h
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.cpp
@@ -31,19 +47,30 @@ CMakeFiles/BicasEnLaUTEC.dir/Scenes/Piso1/Include/Piso1.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.h
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/Scenes.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Auditorio/Include/Auditorio.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/BossScreen/Include/BossScreen.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/CharacterSelect/Include/CharacterSelect.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Defeat/Include/Defeat.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Include/Introduction.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.cpp
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Transition/Include/Transition.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Win/Include/Win.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.cpp
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Transition/Include/Transition.cpp
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Transition/Include/Transition.h
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Win/Include/Win.cpp
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Win/Include/Win.h
 CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.cpp
@@ -51,11 +78,16 @@ CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o
 CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o
  /home/chip/CLionProjects/BicasEnLaUTEC/Controller.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Auditorio/Include/Auditorio.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/BossScreen/Include/BossScreen.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/CharacterSelect/Include/CharacterSelect.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Defeat/Include/Defeat.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Include/Introduction.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Piso1/Include/Piso1.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Scenes.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Transition/Include/Transition.h
+ /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Win/Include/Win.h
  /home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.h
  /home/chip/CLionProjects/BicasEnLaUTEC/main.cpp

@@ -16,7 +16,7 @@ protected:
     int SPD;
     int LVL;
 public:
-    Persona(const int &HP,const int &ATK,const int &DEF, const int &LVL,const int &SPD): HP(HP), ATK(ATK), DEF(DEF),SPD(SPD),LVL(LVL){}
+    Persona(const int &HP,const int &ATK,const int &DEF, const int &SPD,const int &LVL): HP(HP), ATK(ATK), DEF(DEF),SPD(SPD),LVL(LVL){}
 };
 
 class Protagonista: public Persona{
@@ -25,14 +25,16 @@ class Protagonista: public Persona{
     string CARRERA;
 public:
     Protagonista(const int &HP,const int &ATK,const int &DEF, const int &SPD,const int &LVL, string CARRERA, const int &ActualXP, const int &MaxXP):
-            Persona(HP,ATK,DEF,LVL,SPD),CARRERA(CARRERA),ActualXP(ActualXP),MaxXP(MaxXP){}
+            Persona(HP,ATK,DEF,SPD,LVL),CARRERA(CARRERA),ActualXP(ActualXP),MaxXP(MaxXP){}
     void operator ++ ();
     void GetData(int(&data)[7]);
     void GetCarrera(string &carrera);
 };
 
 class Enemigo: public Persona{
+public:
     using Persona::Persona;
+    void GetData(int(&data)[5]);
 };
 
 #endif //BICASENLAUTEC_PERSONAJE_H

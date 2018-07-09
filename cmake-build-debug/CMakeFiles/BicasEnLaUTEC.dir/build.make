@@ -297,6 +297,126 @@ CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o.provides
 CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o.provides.build: CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o
 
 
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o: CMakeFiles/BicasEnLaUTEC.dir/flags.make
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o: ../Scenes/Transition/Include/Transition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o -c /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Transition/Include/Transition.cpp
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Transition/Include/Transition.cpp > CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.i
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Transition/Include/Transition.cpp -o CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.s
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o.requires:
+
+.PHONY : CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o.requires
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o.provides: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o.provides.build
+.PHONY : CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o.provides
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o.provides.build: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o
+
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o: CMakeFiles/BicasEnLaUTEC.dir/flags.make
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o: ../Scenes/Defeat/Include/Defeat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o -c /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Defeat/Include/Defeat.cpp
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Defeat/Include/Defeat.cpp > CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.i
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Defeat/Include/Defeat.cpp -o CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.s
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o.requires:
+
+.PHONY : CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o.requires
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o.provides: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o.provides.build
+.PHONY : CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o.provides
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o.provides.build: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o
+
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o: CMakeFiles/BicasEnLaUTEC.dir/flags.make
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o: ../Scenes/Auditorio/Include/Auditorio.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o -c /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Auditorio/Include/Auditorio.cpp
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Auditorio/Include/Auditorio.cpp > CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.i
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Auditorio/Include/Auditorio.cpp -o CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.s
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o.requires:
+
+.PHONY : CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o.requires
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o.provides: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o.provides.build
+.PHONY : CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o.provides
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o.provides.build: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o
+
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o: CMakeFiles/BicasEnLaUTEC.dir/flags.make
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o: ../Scenes/BossScreen/Include/BossScreen.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o -c /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/BossScreen/Include/BossScreen.cpp
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/BossScreen/Include/BossScreen.cpp > CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.i
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/BossScreen/Include/BossScreen.cpp -o CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.s
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o.requires:
+
+.PHONY : CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o.requires
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o.provides: CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o.provides.build
+.PHONY : CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o.provides
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o.provides.build: CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o
+
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o: CMakeFiles/BicasEnLaUTEC.dir/flags.make
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o: ../Scenes/Win/Include/Win.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o -c /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Win/Include/Win.cpp
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Win/Include/Win.cpp > CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.i
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Win/Include/Win.cpp -o CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.s
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o.requires:
+
+.PHONY : CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o.requires
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o.provides: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BicasEnLaUTEC.dir/build.make CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o.provides.build
+.PHONY : CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o.provides
+
+CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o.provides.build: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o
+
+
 # Object files for target BicasEnLaUTEC
 BicasEnLaUTEC_OBJECTS = \
 "CMakeFiles/BicasEnLaUTEC.dir/main.cpp.o" \
@@ -308,7 +428,12 @@ BicasEnLaUTEC_OBJECTS = \
 "CMakeFiles/BicasEnLaUTEC.dir/Scenes/Piso1/Include/Piso1.cpp.o" \
 "CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o" \
 "CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.o" \
-"CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o"
+"CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o" \
+"CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o" \
+"CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o" \
+"CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o" \
+"CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o" \
+"CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o"
 
 # External object files for target BicasEnLaUTEC
 BicasEnLaUTEC_EXTERNAL_OBJECTS =
@@ -323,6 +448,11 @@ BicasEnLaUTEC: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Piso1/Include/Piso1.cpp.o
 BicasEnLaUTEC: CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o
 BicasEnLaUTEC: CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.o
 BicasEnLaUTEC: CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o
+BicasEnLaUTEC: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o
+BicasEnLaUTEC: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o
+BicasEnLaUTEC: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o
+BicasEnLaUTEC: CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o
+BicasEnLaUTEC: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o
 BicasEnLaUTEC: CMakeFiles/BicasEnLaUTEC.dir/build.make
 BicasEnLaUTEC: /usr/lib/x86_64-linux-gnu/libsfml-audio.so
 BicasEnLaUTEC: /usr/lib/x86_64-linux-gnu/libsfml-network.so
@@ -330,7 +460,7 @@ BicasEnLaUTEC: /usr/lib/x86_64-linux-gnu/libsfml-graphics.so
 BicasEnLaUTEC: /usr/lib/x86_64-linux-gnu/libsfml-window.so
 BicasEnLaUTEC: /usr/lib/x86_64-linux-gnu/libsfml-system.so
 BicasEnLaUTEC: CMakeFiles/BicasEnLaUTEC.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable BicasEnLaUTEC"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/chip/CLionProjects/BicasEnLaUTEC/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable BicasEnLaUTEC"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/BicasEnLaUTEC.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -348,6 +478,11 @@ CMakeFiles/BicasEnLaUTEC.dir/requires: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Piso1
 CMakeFiles/BicasEnLaUTEC.dir/requires: CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o.requires
 CMakeFiles/BicasEnLaUTEC.dir/requires: CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.o.requires
 CMakeFiles/BicasEnLaUTEC.dir/requires: CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o.requires
+CMakeFiles/BicasEnLaUTEC.dir/requires: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o.requires
+CMakeFiles/BicasEnLaUTEC.dir/requires: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o.requires
+CMakeFiles/BicasEnLaUTEC.dir/requires: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o.requires
+CMakeFiles/BicasEnLaUTEC.dir/requires: CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o.requires
+CMakeFiles/BicasEnLaUTEC.dir/requires: CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o.requires
 
 .PHONY : CMakeFiles/BicasEnLaUTEC.dir/requires
 

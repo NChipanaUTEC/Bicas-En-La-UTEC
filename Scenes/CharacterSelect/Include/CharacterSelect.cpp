@@ -86,6 +86,15 @@ string CharacterSelect::Draw(RenderWindow &window, Event &evento) {
         BI.setFillColor(Color::White);
         BI.setPosition(80,450);
         BI.setScale(1.8,1.8);
+    Text Select;
+        Select.setFont(LetterFont);
+        Select.setString("Escoge tu carrera");
+        Select.setCharacterSize(60);
+        Select.setFillColor(Color::Cyan);
+        Select.setPosition(400,500);
+        Select.setScale(1.8,1.8);
+
+
 
     SoundBuff.loadFromFile("../Scenes/Introduction/Sounds/FGBS(27).wav");
     SelectButton.setBuffer(SoundBuff);
@@ -158,6 +167,7 @@ string CharacterSelect::Draw(RenderWindow &window, Event &evento) {
             window.draw(IMctr);
             window.draw(BI);
             window.draw(Triangle);
+            window.draw(Select);
             window.display();
         }
     }

@@ -5,7 +5,7 @@
 #include "Controller.h"
 
 void Controller::SceneDraw() {
-    GenerarPersonaje gp(prota);
+    GenerarPersonaje gp(prota,enemigo);
     scene.SetScene(window,evento, gp);
 
 }

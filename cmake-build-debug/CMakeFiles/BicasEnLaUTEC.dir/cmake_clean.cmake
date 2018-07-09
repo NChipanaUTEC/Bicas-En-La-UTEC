@@ -9,6 +9,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/BicasEnLaUTEC.dir/Util/GenerarPersonaje.cpp.o"
   "CMakeFiles/BicasEnLaUTEC.dir/Scenes/FightScreen/Include/FightScreen.cpp.o"
   "CMakeFiles/BicasEnLaUTEC.dir/Scenes/StatScreen/Include/StatScreen.cpp.o"
+  "CMakeFiles/BicasEnLaUTEC.dir/Scenes/Transition/Include/Transition.cpp.o"
+  "CMakeFiles/BicasEnLaUTEC.dir/Scenes/Defeat/Include/Defeat.cpp.o"
+  "CMakeFiles/BicasEnLaUTEC.dir/Scenes/Auditorio/Include/Auditorio.cpp.o"
+  "CMakeFiles/BicasEnLaUTEC.dir/Scenes/BossScreen/Include/BossScreen.cpp.o"
+  "CMakeFiles/BicasEnLaUTEC.dir/Scenes/Win/Include/Win.cpp.o"
   "BicasEnLaUTEC.pdb"
   "BicasEnLaUTEC"
 )

@@ -44,10 +44,6 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Graphics"/>
-					<Add directory="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Sounds"/>
-					<Add directory="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Fonts"/>
-					<Add directory="/home/chip/CLionProjects/BicasEnLaUTEC/Persona"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -71,10 +67,6 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Graphics"/>
-					<Add directory="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Sounds"/>
-					<Add directory="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Introduction/Fonts"/>
-					<Add directory="/home/chip/CLionProjects/BicasEnLaUTEC/Persona"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -104,10 +96,28 @@
 		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Persona/Persona.h">
 			<Option target="BicasEnLaUTEC"/>
 		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Auditorio/Include/Auditorio.cpp">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Auditorio/Include/Auditorio.h">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/BossScreen/Include/BossScreen.cpp">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/BossScreen/Include/BossScreen.h">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
 		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/CharacterSelect/Include/CharacterSelect.cpp">
 			<Option target="BicasEnLaUTEC"/>
 		</Unit>
 		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/CharacterSelect/Include/CharacterSelect.h">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Defeat/Include/Defeat.cpp">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Defeat/Include/Defeat.h">
 			<Option target="BicasEnLaUTEC"/>
 		</Unit>
 		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/FightScreen/Include/FightScreen.cpp">
@@ -138,6 +148,18 @@
 			<Option target="BicasEnLaUTEC"/>
 		</Unit>
 		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/StatScreen/Include/StatScreen.h">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Transition/Include/Transition.cpp">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Transition/Include/Transition.h">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Win/Include/Win.cpp">
+			<Option target="BicasEnLaUTEC"/>
+		</Unit>
+		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Scenes/Win/Include/Win.h">
 			<Option target="BicasEnLaUTEC"/>
 		</Unit>
 		<Unit filename="/home/chip/CLionProjects/BicasEnLaUTEC/Util/GenerarPersonaje.cpp">

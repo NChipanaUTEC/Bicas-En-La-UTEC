@@ -5,14 +5,11 @@
 #include "StatScreen.h"
 
 int StatScreen::Draw(RenderWindow &window, Event &evento, GenerarPersonaje &gp) {
-    gp.GetType(ProtaData);
+    gp.GetDataProta(ProtaData);
     gp.GetCarrera(Carrera);
 
-    for(auto x: ProtaData)
-        cout << x << endl;
-
     Font Letterfont;
-    Letterfont.loadFromFile("../Scenes/FightScreen/Fonts/alterebro-pixel-font.ttf");
+    Letterfont.loadFromFile("../Scenes/StatScreen/Fonts/alterebro-pixel-font.ttf");
 
     Texture BGTexture;
     BGTexture.loadFromFile("../Scenes/StatScreen/Graphics/Screen.png");
@@ -47,8 +44,20 @@ int StatScreen::Draw(RenderWindow &window, Event &evento, GenerarPersonaje &gp) 
     Text Nivel;
     Nivel.setString(to_string(ProtaData[4]));
     Nivel.setFont(Letterfont);
-    Nivel.setPosition(900,390);
+    Nivel.setPosition(900,385);
     Nivel.setCharacterSize(80);
+
+    Text XP;
+    XP.setString("XP: " + to_string(ProtaData[5])+"/"+to_string(ProtaData[6]));
+    XP.setFont(Letterfont);
+    XP.setPosition(500,550);
+    XP.setCharacterSize(80);
+
+    RectangleShape AXP;
+    AXP.setSize(Vector2f((273*ProtaData[5])/ProtaData[6],13.5));
+    AXP.setFillColor(Color::Yellow);
+    AXP.setPosition(105,583);
+    AXP.setScale(4,4);
 
 
     Soundtrack.openFromFile("../Scenes/StatScreen/Sounds/Youve Got Me (VA-11 HALL-A).ogg");
@@ -78,6 +87,8 @@ int StatScreen::Draw(RenderWindow &window, Event &evento, GenerarPersonaje &gp) 
                     window.draw(Defense);
                     window.draw(Speed);
                     window.draw(Nivel);
+                    window.draw(AXP);
+                    window.draw(XP);
                     window.display();
             }
         }

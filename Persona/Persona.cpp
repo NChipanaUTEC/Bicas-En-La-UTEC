@@ -25,6 +25,15 @@ void Protagonista::GetData (int(&data)[7]) {
     data[6] = MaxXP;
 }
 
+void Enemigo::GetData(int (&data)[5]) {
+    data[0] = HP;
+    data[1] = ATK;
+    data[2] = DEF;
+    data[3] = SPD;
+    data[4] = LVL;
+}
+
+
 void Protagonista::GetCarrera(string &carrera) {
     carrera = CARRERA;
 }
